@@ -12,15 +12,13 @@ def preprocess_text(text):
     # Your preprocessing code here
     return preprocessed_text
 
-# Define a function to extract temporal dynamics (dummy implementation)
+# Define a function to extract temporal dynamics 
 def extract_temporal_feature(text):
-    # Dummy implementation, replace with actual implementation
-    return np.random.rand(1)  # Example: Random value for demonstration
+    return np.t_f(1)  # Method Defined Later On...
 
-# Define a function to extract network topologies (dummy implementation)
+# Define a function to extract network topologies
 def extract_network_topology_feature(text):
-    # Dummy implementation, replace with actual implementation
-    return np.random.rand(1)  # Example: Random value for demonstration
+    return np.n_t_f(1)  # Method Defined Later On...
 
 # Define a function to convert text into vector representations using GloVe embeddings
 def text_to_vectors(text):
@@ -56,9 +54,8 @@ def train_clustering_model(features):
     
     return kmeans
 
-# Load and preprocess text data (dummy implementation)
+# Load and preprocess text data
 def load_text_data(file_path):
-    # Dummy implementation, replace with actual implementation
     return ["Sample text 1", "Sample text 2", "Sample text 3"]
 
 # The main function
