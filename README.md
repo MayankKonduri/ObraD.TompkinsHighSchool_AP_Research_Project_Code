@@ -19,6 +19,7 @@ This project uses Tweepy to fetch tweets and a neural network to classify whethe
    git clone https://github.com/your-repo.git
    cd your-repo
 2. Install the required packages:
+3. ```bash
    pip install tweepy keras tensorflow numpy pandas scikit-learn
 
 ## Usage
