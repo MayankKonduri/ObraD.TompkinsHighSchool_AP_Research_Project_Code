@@ -29,9 +29,9 @@ Replace the example training data and labels with your actual dataset.
 Run the script:
 python main.py
 
-#Model Architecture
+# Model Architecture
 Embedding Layer: Transforms input into dense vectors.
 LSTM Layers: Capture dependencies in sequences.
 Dense Layer: Outputs probability of being AI-generated.
-#Evaluation
+# Evaluation
 The model's performance can be evaluated using the evaluate method, which prints a classification report.
