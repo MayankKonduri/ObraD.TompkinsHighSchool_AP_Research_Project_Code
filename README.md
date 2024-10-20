@@ -40,5 +40,3 @@ Replace the example training data and labels with your actual dataset.
 ## Run the script:
  ```bash
  python main.py
-
-
