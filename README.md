@@ -28,5 +28,13 @@ Set up your Twitter API credentials in the main.py file.
 Replace username with the Twitter handle from which you want to fetch tweets.
 Replace the example training data and labels with your actual dataset.
 Run the script:
- ```bash
+ bash
  python main.py
+
+
+# Model Architecture
+Embedding Layer: Transforms input into dense vectors.
+LSTM Layers: Capture dependencies in sequences.
+Dense Layer: Outputs probability of being AI-generated.
+# Evaluation
+The model's performance can be evaluated using the evaluate method, which prints a classification report.
