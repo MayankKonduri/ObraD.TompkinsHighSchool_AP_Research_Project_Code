@@ -19,7 +19,7 @@ This project uses Tweepy to fetch tweets and a neural network to classify whethe
    git clone https://github.com/your-repo.git
    cd your-repo
 2. Install the required packages:
-3. ```bash
+   ```bash
    pip install tweepy keras tensorflow numpy pandas scikit-learn
 
 ## Usage
@@ -28,12 +28,5 @@ Set up your Twitter API credentials in the main.py file.
 Replace username with the Twitter handle from which you want to fetch tweets.
 Replace the example training data and labels with your actual dataset.
 Run the script:
-```bash
-python main.py
-
-# Model Architecture
-Embedding Layer: Transforms input into dense vectors.
-LSTM Layers: Capture dependencies in sequences.
-Dense Layer: Outputs probability of being AI-generated.
-# Evaluation
-The model's performance can be evaluated using the evaluate method, which prints a classification report.
+ ```bash
+ python main.py
