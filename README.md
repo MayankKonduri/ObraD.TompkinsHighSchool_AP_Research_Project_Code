@@ -21,12 +21,13 @@ This project uses Tweepy to fetch tweets and a neural network to classify whethe
 2. Install the required packages:
    pip install tweepy keras tensorflow numpy pandas scikit-learn
 
-##Usage
+## Usage
 
 Set up your Twitter API credentials in the main.py file.
 Replace username with the Twitter handle from which you want to fetch tweets.
 Replace the example training data and labels with your actual dataset.
 Run the script:
+```bash
 python main.py
 
 # Model Architecture
