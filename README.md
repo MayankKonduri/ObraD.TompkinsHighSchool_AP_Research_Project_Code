@@ -30,9 +30,6 @@ To evaluate the model's performance, we use scikit-learn's classification report
 - Pandas
 - scikit-learn
 
-## Installation
-1. Clone the repository:
-
 ## Running the Code
 ```bash
 git clone https://github.com/yourusername/ObraD.Tompkins_AP_Research_Project_Code
