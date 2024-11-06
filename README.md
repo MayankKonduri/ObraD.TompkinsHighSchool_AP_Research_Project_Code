@@ -18,8 +18,16 @@ The classifier is designed with a **neural network** architecture suitable for p
 - **LSTM Layers:** Capture sequential dependencies in the text data, making the model effective at identifying subtle differences in text generation style.
 - **Dense Layer:** Outputs a probability score indicating the likelihood of a tweet being AI-generated.
 
+
+<img width="920" alt="Screenshot 2024-11-05 at 9 02 51 PM" src="https://github.com/user-attachments/assets/117763c8-dc82-45af-95b8-d7ca7a5b3ce2">
+
+
 ## Evaluation
 To evaluate the model's performance, we use scikit-learn's classification report metrics, which can be accessed through the `evaluate` method. The metrics provide insights into the model's precision, recall, and F1 score, allowing a detailed assessment of its accuracy and robustness.
+
+
+<img width="930" alt="Screenshot 2024-11-05 at 9 03 10 PM" src="https://github.com/user-attachments/assets/aed180fd-e3cd-408d-9fc3-903ab790c20e">
+
 
 ## Requirements
 - Python 3.x
