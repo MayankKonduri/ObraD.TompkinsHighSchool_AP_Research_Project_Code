@@ -1,4 +1,4 @@
-# AP_Research_Project_Code_Trials
+# AP_Research_Project_Code (August 2023 - May 2024)
 
 ## AI Tweet Classifier
 
@@ -32,6 +32,9 @@ To evaluate the model's performance, we use scikit-learn's classification report
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+
+## Running the Code
+```bash
+git clone https://github.com/yourusername/ObraD.Tompkins_AP_Research_Project_Code
+ls
+python3 [Code To Be Compiled]
