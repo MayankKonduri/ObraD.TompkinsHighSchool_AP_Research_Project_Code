@@ -1,7 +1,8 @@
 # AP_Research_Project_Code (August 2023 - May 2024) 
 
 > **Important Note:** I received a 5/5 on the AP Research Exam (*The Highest Possible Score*) after submitting my paper and presenting via an oral defense.
-> **Update:** Paper has been published in **IJSRET Journal** in **December 2024**.
+
+**Update:** Paper has been published in **IJSRET Journal** in **December 2024**.
 ## AI Tweet Classifier
 
 ## Overview
