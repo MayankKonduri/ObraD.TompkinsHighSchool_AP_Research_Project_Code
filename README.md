@@ -3,6 +3,8 @@
 > **Important Note:** I received a 5/5 on the AP Research Exam (*The Highest Possible Score*) after submitting my paper and presenting via an oral defense.
 
 **Update:** Paper has been published in **IJSRET Journal** in **December 2024**.
+![IJSRET Certificate of Publication](Users/mayank/Downloads/IJSRET_Paper_Information/IJSRET_CertificateOfPublication.png)
+
 ## AI Tweet Classifier
 
 ## Overview
