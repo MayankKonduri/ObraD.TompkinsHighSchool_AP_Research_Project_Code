@@ -1,6 +1,6 @@
-# AP_Research_Project_Code (August 2023 - May 2024) 
+# AP_Research_Project_Code
 
-> **Important Note:** I received a 5/5 on the AP Research Exam (*The Highest Possible Score*) after submitting my paper and presenting via an oral defense.
+> **Important Note:** I received a 5/5 on the AP Research Exam (*The Highest Possible Score*) after submitting my paper and presenting via an oral defense. This repository contains practice code and simulation models used for exploratory and prototyping purposes. It does not include the final model used in the actual research study.
 
 **Update:** Paper has been published in **IJSRET Journal** in **December 2024**.
 ![IJSRET Certificate of Publication](https://github.com/user-attachments/assets/7a34b9f0-98b0-44bb-8a40-eac3c5e7ffcf)
