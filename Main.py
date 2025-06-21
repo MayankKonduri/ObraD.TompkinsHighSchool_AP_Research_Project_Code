@@ -12,7 +12,7 @@ BEARER_TOKEN = os.getenv('TWITTER_BEARER_TOKEN')
 scraper = TwitterScraper(BEARER_TOKEN)
 tweets_df = scraper.fetch_tweets("AI", max_results=50)
 
-# Simulated labels (replace with real data)
+# Simulated labels
 tweets_df['label'] = [0 if i % 2 == 0 else 1 for i in range(len(tweets_df))]  # 0 = Human, 1 = AI
 
 texts = tweets_df['text'].tolist()
