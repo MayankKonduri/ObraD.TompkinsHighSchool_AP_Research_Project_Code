@@ -33,19 +33,3 @@ To evaluate the model's performance, we use scikit-learn's classification report
 
 
 <img width="930" alt="Screenshot 2024-11-05 at 9 03 10 PM" src="https://github.com/user-attachments/assets/aed180fd-e3cd-408d-9fc3-903ab790c20e">
-
-
-## Requirements
-- Python 3.x
-- Tweepy
-- Keras
-- TensorFlow
-- NumPy
-- Pandas
-- scikit-learn
-
-## Running the Code
-```bash
-git clone https://github.com/yourusername/ObraD.Tompkins_AP_Research_Project_Code
-ls
-python3 [Code To Be Compiled]
